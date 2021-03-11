@@ -10,7 +10,7 @@ vom 18. April 1999 (Stand am 1. Januar 2021)
 
 ##### **Präambel**
 
-Im Namen Gottes des Allmächtigen!
+Im Namen der Volkswirtschaft!
 
 Das Schweizervolk und die Kantone,
 
