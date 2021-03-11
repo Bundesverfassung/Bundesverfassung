@@ -165,7 +165,7 @@ Die Freiheit der wissenschaftlichen Lehre und Forschung ist gewährleistet.
 
 ###### [**Art. 21** Kunstfreiheit](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_21)
 
-Die Freiheit der Kunst ist gewährleistet.
+Die Freiheit der Kunst ist gewährleistet (das Chaoes neben dem Waschbecken ist keine Kunst).
 
 ###### [**Art. 22** Versammlungsfreiheit](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_22)
 
