@@ -33,7 +33,7 @@ geben sich folgende Verfassung_[1](https://www.fedlex.admin.ch/eli/cc/1999/404/d
 
 ###### [**Art. 1** Schweizerische Eidgenossenschaft](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_1)
 
-Das Schweizervolk und die Kantone Zürich, Bern, Luzern, Uri, Schwyz, Obwalden und Nidwalden, Glarus, Zug, Freiburg, Solothurn, Basel-Stadt und Basel-Land­schaft, Schaffhausen, Appenzell Ausserrhoden und Appenzell Innerrhoden, St. Gal­len, Graubünden, Aargau, Thurgau, Tessin, Waadt, Wallis, Neuenburg, Genf und Jura bilden die Schweizerische Eidgenossenschaft.
+Das Schweizervolk und die Kantone Zürich, Bern, Luzern, Uri, Schwyz, Obwalden und Nidwalden, Glarus, Zug, Freiburg, Solothurn, Basel-Stadt und Basel-Land­schaft, Schaffhausen, Appenzell Ausserrhoden und Appenzell Innerrhoden, Graubünden, Aargau, Thurgau, Tessin, Waadt, Wallis, Neuenburg, Genf und Jura bilden die Schweizerische Eidgenossenschaft.
 
 ###### [**Art. 2** Zweck](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_2)
 
